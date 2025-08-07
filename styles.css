@@ -1,0 +1,32 @@
+#Header{
+    background-color: rgb(250, 60, 60);
+    color: white;
+}
+
+#Nav{
+    background-color: rgb(37, 163, 163);
+    color: white;
+}
+
+#Section{
+    background-color: rgb(96, 141, 238);
+    color: white;
+}
+
+#Article{
+    background-color: rgb(235, 187, 30);
+    color: white;
+}
+
+#Aside{
+    background-color: rgb(105, 105, 105);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Footer{
+    background-color: rgb(233, 91, 47);
+    color: white;
+}
